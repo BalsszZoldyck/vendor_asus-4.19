@@ -7728,7 +7728,7 @@ cc_prebuilt_library_shared {
                 "android.hardware.radio@1.5",
                 "android.hardware.radio.deprecated@1.0",
                 "qtimutex",
-                "libprotobuf-cpp-full",
+                "libprotobuf-cpp-full-21.7",
                 "libvndksupport",
                 "libbase",
                 "libz",
