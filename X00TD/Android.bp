@@ -13443,7 +13443,7 @@ cc_prebuilt_library_shared {
                 "libbase",
                 "libdl",
                 "libhardware",
-                "libprotobuf-cpp-lite-21.7",
+                "libprotobuf-cpp-lite",
                 "libcrypto",
                 "liblog",
                 "libhidlbase-v32",
